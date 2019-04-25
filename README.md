@@ -1,1 +1,1 @@
-# Find Donors for CharityML
+# Find Donors for CharityML (Supervised Learning)
