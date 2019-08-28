@@ -5,13 +5,9 @@
 The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. Below are the steps.
 
 - Explore the data to learn how the census data is recorded
-
 - Apply a series of transformations and preprocessing techniques to manipulate the data into a workable format
-
 - Evaluate several supervised learners on the data, and consider which is best suited for the solution
-
 - Optimize the model selected and present it as your solution to CharityML
-
 - Explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 
 ## Project Highlights
