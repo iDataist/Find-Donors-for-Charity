@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. Below are the steps.
+The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. Below are the steps, which is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb).
 
 - Explore the data to learn how the census data is recorded
 - Apply a series of transformations and preprocessing techniques to manipulate the data into a workable format
@@ -23,7 +23,7 @@ Below are the key skills required for the project:
 
 ## Data
 
-The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. You may find this paper [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+The [modified census dataset](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/census.csv) consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. This paper can be found [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 **Features**
 - `age`: Age
