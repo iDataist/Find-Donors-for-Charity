@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. Below are the steps, which is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb).
+The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. Below are the steps, which is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb). The helper functions for visualization are in [visuals.py](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/visuals.py).
 
 - Explore the data to learn how the census data is recorded
 - Apply a series of transformations and preprocessing techniques to manipulate the data into a workable format
