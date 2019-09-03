@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. Below are the steps, which is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb). The helper functions for visualization are in [visuals.py](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/visuals.py).
+CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML would like to build an algorithm to best identify potential donors and reduce overhead cost of sending mail.
 
-- Explore the data to learn how the census data is recorded
-- Apply a series of transformations and preprocessing techniques to manipulate the data into a workable format
-- Evaluate several supervised learners on the data, and consider which is best suited for the solution
-- Optimize the model selected and present it as your solution to CharityML
-- Explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
+The goal of this project is to apply supervised learning techniques and help CharityML identify people most likely to donate to their cause. I evaluated and optimized several different supervised learners to determine which algorithm provided the highest donation yield while also reduced the total number of letters being sent.  Below are the steps, which is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb). [visuals.py](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/visuals.py) provides supplementary visualizations.
+
+- Explored the data to learn how the census data was recorded
+- Applied a series of transformations and preprocessing techniques to manipulate the data into a workable format
+- Evaluated several supervised learners on the data, and considered which was best suited for the solution
+- Optimized the model selected and presented it as the solution to CharityML
+- Explored the chosen model and its predictions under the hood, to see just how well it was performing considering the data given
 
 ## Project Highlights
 
-This project involves many supervised learning algorithms available in sklearn, and also a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
+This project involved many supervised learning algorithms available in sklearn, and also a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided. Below are the key skills demonstrated in the project:
 
-Below are the key skills required for the project:
-
-- How to identify when preprocessing is needed, and how to apply it.
-- How to establish a benchmark for a solution to the problem.
-- What each of several supervised learning algorithms accomplishes given a specific dataset.
-- How to investigate whether a candidate solution model is adequate for the problem.
+- Identify when preprocessing is needed, and how to apply it
+- Establish a benchmark for a solution to the problem
+- Evaluate what each of several supervised learning algorithms accomplishes given a specific dataset
+- Investigate whether a candidate solution model is adequate for the problem
 
 ## Data
 
