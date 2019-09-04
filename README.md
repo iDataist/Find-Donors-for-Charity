@@ -33,7 +33,7 @@ The [modified census dataset](https://github.com/iDataist/Find-Donors-for-Charit
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
 
-## Project steps
+## Project Steps
 - Explored the data to learn how the census data was recorded
 - Applied a series of transformations and preprocessing techniques to manipulate the data into a workable format
 - Evaluated several supervised learners on the data, and considered which was best suited for the solution
