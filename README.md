@@ -1,10 +1,10 @@
-# Find Donors for CharityML (Supervised Learning)
+# Find Donors for Charity (Supervised Learning)
 
 ## Project Overview
 
 A charity organization in California would like to build an algorithm to best identify potential donors and reduce overhead cost of sending mail. After nearly 32,000 letters were sent to people in the community, the organization determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, they decided to send letters to residents who are most likely to donate to the charity. With nearly 15 million working Californians, the charity organization would like to build an algorithm to best identify potential donors and reduce overhead cost of sending mail.
 
-The goal of this project is to apply supervised learning techniques and help the charity identify people most likely to donate to their cause. I evaluated and optimized several different supervised learners to determine which algorithm provided the highest donation yield while also reduced the total number of letters being sent.  
+The goal of this project is to apply supervised learning techniques and help the charity identify people most likely to donate to their cause. I evaluated and optimized several different supervised learners to determine which algorithm provided the highest donation yield while also reduced the total number of letters being sent.
 
 ## Key Skills Demonstrated
 - Supervised learning
